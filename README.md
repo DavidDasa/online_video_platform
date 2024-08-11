@@ -1,6 +1,4 @@
-Here's a README template for your "Online Video Platform" project. This file includes sections for project overview, installation instructions, usage, contributing, and license. Feel free to customize it further based on your specific requirements.
 
-```markdown
 # Online Video Platform
 
 ## Overview
